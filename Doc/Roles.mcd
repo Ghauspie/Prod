@@ -1,0 +1,6 @@
+Url: Nunberwidget, url
+Role: role
+User: lastname, firstname, login, password, idrole
+
+:
+USERROLE, 0N Role, 11 User

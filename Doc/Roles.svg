@@ -1,0 +1,67 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+"http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+
+<svg width="284" height="211" view_box="0 0 284 211"
+xmlns="http://www.w3.org/2000/svg"
+xmlns:link="http://www.w3.org/1999/xlink">\n\n<desc>Généré par Mocodo 2.3.7 le Mon, 18 Jan 2021 02:01:37</desc>
+
+<rect id="frame" x="0" y="0" width="284" height="211" fill="#ffffbf" stroke="none" stroke-width="0"/>
+
+<!-- Association USERROLE -->
+<line x1="156" y1="68" x2="156" y2="177" stroke="#66bd63" stroke-width="2"/>
+<text x="161.0" y="110" fill="#d73027" font-family="Verdana" font-size="12">0,N</text>
+<line x1="241" y1="68" x2="156" y2="177" stroke="#66bd63" stroke-width="2"/>
+<text x="181" y="109.443257776" fill="#d73027" font-family="Verdana" font-size="12">1,1</text>
+<g id="association-USERROLE">
+	<path d="M 182 152 a 14 14 90 0 1 14 14 V 177 h -80 V 166 a 14 14 90 0 1 14 -14" fill="#a6d96a" stroke="#a6d96a" stroke-width="0"/>
+	<path d="M 196 177.0 v 11 a 14 14 90 0 1 -14 14 H 130 a 14 14 90 0 1 -14 -14 V 177.0 H 80" fill="#d9ef8b" stroke="#d9ef8b" stroke-width="0"/>
+	<rect x="116" y="152" width="80" height="50" fill="none" rx="14" stroke="#66bd63" stroke-width="2"/>
+	<line x1="116" y1="177" x2="196" y2="177" stroke="#66bd63" stroke-width="1"/>
+	<text x="123" y="169.7" fill="#000000" font-family="Verdana" font-size="12">USERROLE</text>
+</g>
+
+<!-- Entity Url -->
+<g id="entity-Url">
+	<g id="frame-Url">
+		<rect x="9" y="34" width="96" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="9" y="59.0" width="96" height="43" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="9" y="34" width="96" height="68" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="9" y1="59" x2="105" y2="59" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="48" y="51.7" fill="#000000" font-family="Verdana" font-size="12">Url</text>
+	<text x="14" y="76.8" fill="#000000" font-family="Verdana" font-size="12">Nunberwidget</text>
+	<line x1="14" y1="79" x2="99" y2="79" stroke="#000000" stroke-width="1"/>
+	<text x="14" y="93.8" fill="#000000" font-family="Verdana" font-size="12">url</text>
+</g>
+
+<!-- Entity Role -->
+<g id="entity-Role">
+	<g id="frame-Role">
+		<rect x="137" y="43" width="38" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="137" y="68.0" width="38" height="25" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="137" y="43" width="38" height="50" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="137" y1="68" x2="175" y2="68" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="142" y="60.7" fill="#000000" font-family="Verdana" font-size="12">Role</text>
+	<text x="142" y="85.8" fill="#000000" font-family="Verdana" font-size="12">role</text>
+	<line x1="142" y1="88" x2="166" y2="88" stroke="#000000" stroke-width="1"/>
+</g>
+
+<!-- Entity User -->
+<g id="entity-User">
+	<g id="frame-User">
+		<rect x="207" y="9" width="68" height="25" fill="#fdae61" stroke="#fdae61" stroke-width="0"/>
+		<rect x="207" y="34.0" width="68" height="93" fill="#fee08b" stroke="#fee08b" stroke-width="0"/>
+		<rect x="207" y="9" width="68" height="118" fill="none" stroke="#f46d43" stroke-width="2"/>
+		<line x1="207" y1="34" x2="275" y2="34" stroke="#f46d43" stroke-width="1"/>
+	</g>
+	<text x="227" y="26.7" fill="#000000" font-family="Verdana" font-size="12">User</text>
+	<text x="212" y="51.7" fill="#000000" font-family="Verdana" font-size="12">lastname</text>
+	<line x1="212" y1="54" x2="268" y2="54" stroke="#000000" stroke-width="1"/>
+	<text x="212" y="68.8" fill="#000000" font-family="Verdana" font-size="12">firstname</text>
+	<text x="212" y="85.8" fill="#000000" font-family="Verdana" font-size="12">login</text>
+	<text x="212" y="102.8" fill="#000000" font-family="Verdana" font-size="12">password</text>
+	<text x="212" y="119.8" fill="#000000" font-family="Verdana" font-size="12">idrole</text>
+</g>
+</svg>
